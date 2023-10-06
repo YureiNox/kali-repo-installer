@@ -2,6 +2,7 @@
 install kali apt repo on ubuntu or llinux distro
 
 # ONLY TESTED ON UBUNT SO BE CAREFUL
+## BE REALLY CAREFUL WITH THE APT REPO YOUR PC CAN CRASH AN DOESN'T START AN NEXT TIME SO PREPARE AN RECOVERY OPTION !!!!!!
 
 pretty simple:
 
@@ -23,6 +24,6 @@ for the package and tool go to:
 https://www.kali.org/tools/kali-meta/
 ```
 
-## BE REALLY CAREFUL WITH THE APT REPO YOUR PC CAN CRASH AN DOESN'T START AN NEXT TIME SO PREPARE AN RECOVERY OPTION !!!!!!
+
 
 well done !!
