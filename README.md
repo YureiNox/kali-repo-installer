@@ -19,7 +19,7 @@ sudo ./kalirepoinstall.sh
 
 to uninstall do the same think but with the kalirepouninstall.sh
 
-for the package and tool go to:
+for the package and tool go check this website of kali linux and find the repo you wan't:
 ```
 https://www.kali.org/tools/kali-meta/
 ```
