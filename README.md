@@ -1,4 +1,8 @@
 # kali-repo-installer
+
+#OUTDATED
+
+
 install kali apt repo on ubuntu or llinux distro
 
 # ONLY TESTED ON UBUNTU !!!!!
