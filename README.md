@@ -1,6 +1,6 @@
 # kali-repo-installer
 
-#OUTDATED
+# OUTDATED
 
 
 install kali apt repo on ubuntu or llinux distro
